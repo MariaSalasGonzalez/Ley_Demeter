@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aligonzalez/CLionProjects/Ley_Demeter/Billetera.h
+iostream
+-
+stdio.h
+-
+
+/Users/aligonzalez/CLionProjects/Ley_Demeter/Cliente.h
+Billetera.h
+/Users/aligonzalez/CLionProjects/Ley_Demeter/Billetera.h
+stdio.h
+-
+
+/Users/aligonzalez/CLionProjects/Ley_Demeter/Repartidor.h
+Cliente.h
+/Users/aligonzalez/CLionProjects/Ley_Demeter/Cliente.h
+stdio.h
+-
+
+/Users/aligonzalez/CLionProjects/Ley_Demeter/main.cpp
+Repartidor.h
+/Users/aligonzalez/CLionProjects/Ley_Demeter/Repartidor.h
+

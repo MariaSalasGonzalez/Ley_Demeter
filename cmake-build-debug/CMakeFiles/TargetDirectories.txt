@@ -1,0 +1,3 @@
+/Users/aligonzalez/CLionProjects/Ley_Demeter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aligonzalez/CLionProjects/Ley_Demeter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aligonzalez/CLionProjects/Ley_Demeter/cmake-build-debug/CMakeFiles/Ley_Demeter.dir

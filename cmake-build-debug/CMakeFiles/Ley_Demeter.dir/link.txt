@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Ley_Demeter.dir/main.cpp.o CMakeFiles/Ley_Demeter.dir/Billetera.cpp.o CMakeFiles/Ley_Demeter.dir/Cliente.cpp.o CMakeFiles/Ley_Demeter.dir/Repartidor.cpp.o  -o Ley_Demeter 
